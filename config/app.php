@@ -194,4 +194,6 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
     ])->toArray(),
     'another_key' => 'another_value',
+
+    'some_key' => 'some_value',
 ];
